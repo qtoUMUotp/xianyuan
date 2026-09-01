@@ -554,7 +554,7 @@ window.SPIRIT_DATA = (function () {
    * --------------------------------------------------------- */
   const questions = [
     {
-      q: '夜里两点，你最可能的样子是',
+      q: '某日夜里两点你还未睡，你最可能的样子是',
       options: [
         { label: '还在刷，还想再挖一点', desc: '越晚越清醒，越挖越上头', score: { hui: 3, zhu_wu: 2, huang: 1 } },
         { label: '躺着复盘白天说过的话', desc: '一句一句地重播，停不下来', score: { hu: 3, liu: 2, ya: 1 } },
