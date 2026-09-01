@@ -756,7 +756,7 @@ window.SPIRIT_DATA = (function () {
    * ============================================================ */
   
   const otherWorks = [
-  { name: '赛博占卜工具', url: 'https://qtoumuotp.github.io/divination-hub/', desc: '赛博风格的在线占卜小站' }，
+  { name: '赛博占卜工具', url: 'https://qtoumuotp.github.io/divination-hub/', desc: '赛博风格的在线占卜小站' },
   { name: '赛博猪猪匹配', url: 'https://qtoumuotp.github.io/cyber-piggy/', desc: '赛博猪猪匹配测试' }
 ];
 
